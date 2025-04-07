@@ -9,3 +9,6 @@ function openFacebook() {
 function openWhatsApp() {
   window.open("https://wa.me/8801876149129", "_blank");
 }
+function openCreator() {
+  window.open("https://asrafulsheikhasif143.github.io/Parsonal/", "_blank");
+}
